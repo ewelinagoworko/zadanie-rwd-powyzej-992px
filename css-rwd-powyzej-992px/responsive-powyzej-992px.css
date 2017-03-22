@@ -1,0 +1,12 @@
+img {
+	width: 100%;
+}
+
+
+
+@media (min-width: 993px) and (max-width: 1170px) {
+	img {
+		height: 70vh;
+	}
+}
+
